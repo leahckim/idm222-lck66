@@ -148,7 +148,7 @@ h3 {
     font-family: 'Playfair Displauy';
     font-size: 26px;
 }
-]
+
   p {
     font-family: 'Crimson Text';
     font-size: 20px;
@@ -201,3 +201,15 @@ h3 {
     line-height: 1.5;
   }
   
+  .resume {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #FBDDE3;
+    border-radius: 10px;
+  }
+
+  .name {
+    background-color: #FBDDE3;
+    font-size: 40px;
+  }
