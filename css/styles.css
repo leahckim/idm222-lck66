@@ -97,7 +97,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 75vh;
+    height: auto;
+    padding: 50px 0;
   }
   
   .about-content {
@@ -109,7 +110,7 @@ body {
   .about-image {
     flex: 1;
     margin-right: 20px;
-    margin-top: 150px;
+    margin-top: 100px;
   }
   
   .about-image img {
@@ -120,8 +121,8 @@ body {
   }
   
   .about-text {
-    flex: 2;
-    margin-top: 100px;
+    flex: 1;
+    margin-top:  50px;
     margin-bottom: 100px;
   }
   
